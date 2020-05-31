@@ -6,10 +6,9 @@
 
 <h2>:running: Kaggle competition</h2>
 
-This repository will contain solution for [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018) kaggle competition.
+This repository contains data analysis for [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018) kaggle competition.
 Main purpose is nucleuses identification (<b>segmentation</b>) in varied conditions.
 
-<i>Note: Currently it is WIP (work-in-progress) project.</i>
 
 <h2>:chart_with_upwards_trend: Data analysis</h2>
 
@@ -19,7 +18,7 @@ It contains observations for:
 - Files (filename encoding, directory structure, duplicated files and data format)
 - Train and test data (distribution)
 - Dimensions (width and height)
-- Channels visualization
+- Channels visualisation
 - Colour models (division into colour and black&white images based on channels)
 - Masks (number of masks and how many pixels are considered as a nucleus)
 - Outliers
